@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Цели/2024/Цели на год 2024.md",
+                "file": "Education/Книги/2024/cryptobook/Learn How to Program Bitcoin from Scratch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10b4c488ae416cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Книги/2024/cryptobook/Decentralized Applications on the Ethereum Blockchain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffa35da4a6e19ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Депозитный счёт для Верификации.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "undefined",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Цели/2024/Цели на год 2024.md",
+                "file": "Ideas/Депозитный счёт для Верификации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Цели/2024/Цели на год 2024.md",
+                "file": "Ideas/Депозитный счёт для Верификации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Цели/2024/Цели на год 2024.md"
+                "file": "Ideas/Депозитный счёт для Верификации.md"
               }
             }
           }
@@ -172,44 +196,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1b5833edd599b00d",
+  "active": "ffa35da4a6e19ba2",
   "lastOpenFiles": [
-    "Education/Цели/Targets.md",
-    "Education/Цели/2024/Цели на год 2024.md",
-    "Education/Цели/2024/Август.md",
-    "Daily/Days/2024-08-16.md",
-    "Hub.md",
-    "Pluggins/Obsidian Base Settings.md",
-    "Daily/Daily.md",
-    "Education/Education.md",
-    "Education/Книги/Books.md",
-    "Programming/Основы Python/Как работают переменные.md",
-    "Programming/Programming.md",
-    "Templates/Book Template.md",
-    "Education/Книги/2024/Как взломать пентагон на HTML.md",
-    "Pluggins/Pluggins.md",
-    "Templates/Daily Template.md",
-    "Education/Untitled.md",
-    "Education/Ежедневник/2024/Апрель.md",
-    "Daily/Days/Untitled.md",
-    "Daily/Days/Untitled 2.md",
-    "Daily/Days/Untitled 1.md",
-    "Daily/2024-08-16.md",
-    "Daily/Days",
-    "Daiy.md",
-    "cache/1710456902IPGIPLPIFG.jpg",
-    "daily.md",
+    "Daily/Days/2024-08-22.md",
+    "Ideas/Депозитный счёт для Верификации.md",
+    "Ideas",
+    "Daily/Days/2024-08-21.md",
+    "Daily/Days/2024-08-24.md",
+    "Education/курсы/C++ Магистерский курс МФТИ/C++ Магистерский курс МФТИ.md",
+    "Education/курсы/cpp roadmap/cpp roadmap.md",
+    "Education/курсы/C++ Магистерский курс МФТИ/заметки",
     "Templates/Course Template.md",
-    "Templates/Target Template.md",
     "Templates/Video Template.md",
-    "Education/Цели/2024/месяц",
-    "Pluggins",
-    "Programming/Парсинг сайтов",
-    "Programming/Основы Python",
-    "Programming/ООП",
-    "Programming/Linux",
-    "Programming",
-    "Education/Книги/2024",
-    "Education/Ежедневник/2024"
+    "Education/курсы/C++ Магистерский курс МФТИ",
+    "Daily/Days/2024-08-20.md",
+    "Education/Цели/2024/Август.md",
+    "Education/Цели/2024/Цели на год 2024.md",
+    "Education/Цели/Targets.md",
+    "Daily/Daily.md",
+    "Education/Книги/2024/Programming/Design Patterns CD. Elements of reusable object-oriented software.md",
+    "Education/Книги/2024/Programming/The elements of programming style.md",
+    "Education/Книги/2024/C++/Effective C++.md",
+    "Programming/Криптовалюты/Крипто эквайринг.md",
+    "Education/Книги/2024/C++",
+    "Education/Книги/2024/Programming",
+    "Programming/Криптовалюты/Pokadot.md",
+    "Education/Книги/2024/cryptobook/Mastering Blockchain.md",
+    "Education/Книги/2024/cryptobook/Building Smart Contracts and DApps.md",
+    "Education/Книги/Books.md",
+    "Education/Книги/2024/cryptobook",
+    "Education/Книги/2024/cryptobook/Decentralized Applications on the Ethereum Blockchain.md",
+    "Programming/Криптовалюты/Web3cpp.md",
+    "Programming/Криптовалюты/NFT Tokens.md",
+    "Programming/Криптовалюты/Ethereum weather client.md",
+    "Programming/Криптовалюты/Ethereum wallet keeper.md",
+    "Education/курсы/cpp roadmap/заметки/Templates C++",
+    "Education/Unsorted",
+    "Education/курсы/cpp roadmap/заметки",
+    "Education/курсы/cpp roadmap",
+    "cache/1710456902IPGIPLPIFG.jpg"
   ]
 }

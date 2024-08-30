@@ -1,15 +1,18 @@
 ---
-tags: 
-author: 
+tags:
+  - dApp
+  - blockchain
+  - ethereum
+author: Roberto Infante
 начал читать: 
 прочитал: false
-создал заметку: "{{date}}"
+создал заметку: 2024-08-16
 страниц: 
 кол.заметок: 
 цена книги: 
 прочитал n-раз: 
 моя оценка: 
-источник:
+источник: https://libgen.is/book/index.php?md5=D268EA5ACF85E57D6274B66BB6D93197
 ---
 [[Books|Книги]]
 ### Резюме

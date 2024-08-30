@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1724181617959,
+      "path": "Education/курсы/cpp roadmap",
+      "title": "cppRoadmap"
+    },
+    {
+      "type": "folder",
+      "ctime": 1724191005800,
+      "path": "Daily/Days",
+      "title": "Days"
+    },
+    {
+      "type": "folder",
+      "ctime": 1724192217635,
+      "path": "Programming/Криптовалюты",
+      "title": "Cryptocurencies"
+    },
+    {
+      "type": "folder",
+      "ctime": 1724192489996,
+      "path": "Education/Книги",
+      "title": "Books"
+    }
+  ]
+}
