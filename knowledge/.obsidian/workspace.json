@@ -16,7 +16,9 @@
                 "file": "Daily/Days/2024-08-16.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-08-16"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Pluggins/Obsidian Base Settings.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian Base Settings"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Education/Книги/2024/cryptobook/Learn How to Program Bitcoin from Scratch.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Learn How to Program Bitcoin from Scratch"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Education/Книги/2024/cryptobook/Decentralized Applications on the Ethereum Blockchain.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Decentralized Applications on the Ethereum Blockchain"
             }
           },
           {
@@ -61,14 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Депозитный счёт для Верификации.md",
+                "file": "Education/Unsorted/smart pointers.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "smart pointers"
+            }
+          },
+          {
+            "id": "1f5cf0eb93f4e22d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/Days/2024-10-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-24"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -88,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -103,7 +129,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -111,14 +139,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 409.5
   },
   "right": {
     "id": "bf30b7e6980cfcd9",
@@ -134,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Депозитный счёт для Верификации.md",
+                "file": "Daily/Days/2024-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +172,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 2024-10-24"
             }
           },
           {
@@ -151,10 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/Депозитный счёт для Верификации.md",
+                "file": "Daily/Days/2024-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 2024-10-24"
             }
           },
           {
@@ -165,7 +199,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -174,8 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Депозитный счёт для Верификации.md"
-              }
+                "file": "Daily/Days/2024-10-24.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура 2024-10-24"
             }
           }
         ]
@@ -187,53 +225,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "ffa35da4a6e19ba2",
+  "active": "1f5cf0eb93f4e22d",
   "lastOpenFiles": [
-    "Daily/Days/2024-08-22.md",
-    "Ideas/Депозитный счёт для Верификации.md",
-    "Ideas",
-    "Daily/Days/2024-08-21.md",
-    "Daily/Days/2024-08-24.md",
-    "Education/курсы/C++ Магистерский курс МФТИ/C++ Магистерский курс МФТИ.md",
-    "Education/курсы/cpp roadmap/cpp roadmap.md",
-    "Education/курсы/C++ Магистерский курс МФТИ/заметки",
-    "Templates/Course Template.md",
-    "Templates/Video Template.md",
-    "Education/курсы/C++ Магистерский курс МФТИ",
-    "Daily/Days/2024-08-20.md",
-    "Education/Цели/2024/Август.md",
-    "Education/Цели/2024/Цели на год 2024.md",
-    "Education/Цели/Targets.md",
-    "Daily/Daily.md",
-    "Education/Книги/2024/Programming/Design Patterns CD. Elements of reusable object-oriented software.md",
-    "Education/Книги/2024/Programming/The elements of programming style.md",
-    "Education/Книги/2024/C++/Effective C++.md",
-    "Programming/Криптовалюты/Крипто эквайринг.md",
-    "Education/Книги/2024/C++",
-    "Education/Книги/2024/Programming",
-    "Programming/Криптовалюты/Pokadot.md",
-    "Education/Книги/2024/cryptobook/Mastering Blockchain.md",
-    "Education/Книги/2024/cryptobook/Building Smart Contracts and DApps.md",
-    "Education/Книги/Books.md",
-    "Education/Книги/2024/cryptobook",
-    "Education/Книги/2024/cryptobook/Decentralized Applications on the Ethereum Blockchain.md",
-    "Programming/Криптовалюты/Web3cpp.md",
-    "Programming/Криптовалюты/NFT Tokens.md",
-    "Programming/Криптовалюты/Ethereum weather client.md",
-    "Programming/Криптовалюты/Ethereum wallet keeper.md",
-    "Education/курсы/cpp roadmap/заметки/Templates C++",
-    "Education/Unsorted",
-    "Education/курсы/cpp roadmap/заметки",
-    "Education/курсы/cpp roadmap",
+    "Daily/Days/2024-10-24.md",
+    "Education/Unsorted/С++ 17 стандарт.md",
+    "Education/Unsorted/smart pointers.md",
+    "cache/Pasted image 20241013155627.png",
+    "cache/Pasted image 20241013001633.png",
+    "cache/Pasted image 20241013001612.png",
+    "Education/Unsorted/AST деревья.md",
+    "Education/Unsorted/boolapha.md",
+    "Education/Unsorted/Linux based command.md",
+    "Education/Unsorted/Metaprogramming.md",
+    "Education/Unsorted/NFC эквайринг.md",
+    "Education/Unsorted/TCP-IP.md",
+    "Education/Unsorted/Обработка Variadic Templates.md",
+    "Education/курсы/Базовый курс C++/лекция 5. RAII и перемещение.md",
+    "Education/курсы/Базовый курс C++/лекция 3. имена и сущности.md",
+    "Education/курсы/Базовый курс C++/лекция 4. Инициализация и копирование.md",
+    "Daily/Days/2024-10-12.md",
+    "Daily/Days/2024-08-16.md",
+    "Education/заметки подготовка к собесу/Деревья(Лес)/AVL Деревья.md",
+    "Education/курсы/Базовый курс C++/лекция 2. указатели и ссылки.md",
+    "Education/курсы/Базовый курс C++/лекция 1. запах C++.md",
+    "Education/заметки подготовка к собесу/Деревья(Лес)/BST(Binary Search Tree).md",
+    "cache/Pasted image 20241009220745.png",
+    "Education/заметки подготовка к собесу/type_casting/reinterpret_cast.md",
+    "Education/заметки подготовка к собесу/Деревья(Лес)",
+    "Education/заметки подготовка к собесу/trees.md",
+    "Daily/Days/2024-09-22.md",
+    "Education/заметки подготовка к собесу/type_casting/dynamic_cast.md",
+    "Education/заметки подготовка к собесу/type_casting/const_cast.md",
+    "Education/заметки подготовка к собесу/type_casting/static_cast.md",
+    "Education/Education.md",
+    "Education/заметки подготовка к собесу/type_casting",
+    "cache/VTable.gif",
+    "Education/заметки подготовка к собесу/ооп",
+    "Education/заметки подготовка к собесу",
+    "Education/build own bittorrent client/Без названия",
+    "cache/Pasted image 20241004010302.png",
+    "cache/Pasted image 20241004004742.png",
+    "cache/Pasted image 20241004003803.png",
+    "cache/Pasted image 20241004001418.png",
+    "Education/курсы/Основы языка C",
+    "Education/курсы/Базовый курс C++",
+    "Диплом",
+    "Education/build own bittorrent client/заметки",
+    "Education/build own bittorrent client",
     "cache/1710456902IPGIPLPIFG.jpg"
   ]
 }
